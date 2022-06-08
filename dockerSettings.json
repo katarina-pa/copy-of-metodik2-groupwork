@@ -19,11 +19,6 @@
   [
     4004
   ],
-<<<<<<< Updated upstream
-  "dev-capitals-info-db-start",
-  [
-    4005
-=======
   "dev-capitals-backend-work-ps",
   [
     4005
@@ -31,6 +26,5 @@
   "dev-capitals-db-work-ps",
   [
     4006
->>>>>>> Stashed changes
   ]
 ]
