@@ -1,4 +1,4 @@
-FROM mongo:Latest
+FROM mongo:5.0
 
 ### With mongod (the mongo daemon used to start mongoDB
 ### you can specify port, but must also specify a bind_ip
