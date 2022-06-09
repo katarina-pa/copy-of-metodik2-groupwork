@@ -1,7 +1,8 @@
 const path = require('path');
 const mongoose = require('mongoose');
 
-const connection = 'mongodb://capital-info-db-main:8020/capitals-db';
+//add container name and corresponding port
+const connection = 'mongodb://dev-capitals-db-work-ps:4006/capitals-db';
 
 function dbConnectWithRetry() {
   return new Promise(res => {
