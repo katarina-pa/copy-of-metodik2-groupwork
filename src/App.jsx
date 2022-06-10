@@ -19,7 +19,7 @@ export default function App() {
         else {
           setResult(<>
             <h3>{found.capital}</h3>
-            <p>The capital of {country}.</p>
+            <p>The AWESOME capital of {country}.</p>
             <p>(The population count is approximate. The data may be old.)</p>
             <p><a href={'https://en.wikipedia.org/wiki/' + found.capital.split(' -')[0]} target="_blank">
               Read more on Wikipedia
